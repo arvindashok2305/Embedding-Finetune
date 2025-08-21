@@ -96,7 +96,7 @@ for score, passage in zip(similarities[0], passages):
 ## 🌐 Hugging Face Hub
 
 Once pushed, your model will be available at:
-👉 `https://huggingface.co/arvindcreatrix/bge-base-my-qna-model`
+👉 `https://huggingface.co/arvindcreatrix/bge-bases-my-qna-model`
 
 ---
 
