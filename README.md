@@ -107,9 +107,13 @@ Please open an issue or submit a pull request.
 
 ---
 
-## 📜 License
+## 👨‍💻 Author
 
-This project is licensed under the **Apache 2.0 License**.
+**Arvind A.**
+
+* 🎓 B.E. CSE student from Anna University Regional Campus, Tirunelveli
+* 💡 Machine Learning & AI Enthusiast | Aspiring AI/ML Engineer
+* 📫 Reach me: [arvindashok2305@gmail.com](mailto:arvindashok2305@gmail.com)
 
 ---
 
