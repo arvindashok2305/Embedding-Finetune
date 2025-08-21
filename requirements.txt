@@ -1,0 +1,15 @@
+# Core ML & Deep Learning
+torch
+sentence-transformers
+datasets
+pyarrow
+
+# Hugging Face
+huggingface_hub
+
+# Utilities
+tqdm
+numpy
+
+# Jupyter (if running notebooks)
+notebook
